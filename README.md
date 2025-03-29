@@ -1,4 +1,4 @@
-# Super_market_analysis
+# Super_market_analysis_SQL_Power_BI
 📌 Retail Sales Performance Analysis Using SQL & Power BI
 
 🔹 Problem Statement
